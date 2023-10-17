@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profissão Policial</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav {
+            background-color: #444;
+            padding: 0.5rem;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 1rem;
+        }
+        section {
+            padding: 2rem;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Profissão Policial</h1>
+    </header>
+    <nav>
+        <a href="#sobre">Sobre</a>
+        <a href="#requisitos">Requisitos</a>
+        <a href="#treinamento">Treinamento</a>
+        <a href="#carreira">Carreira</a>
+    </nav>
+    <section id="sobre">
+        <h2>Sobre a Profissão Policial</h2>
+        <p>A profissão de policial envolve proteger e servir a comunidade. Os policiais desempenham um papel vital na manutenção da ordem pública, prevenção e investigação de crimes, e garantia da segurança da população.</p>
+    </section>
+    <section id="requisitos">
+        <h2>Requisitos para se Tornar um Policial</h2>
+        <ul>
+            <li>Idade mínima de 18 anos</li>
+            <li>Ensino médio completo</li>
+            <li>Boa saúde física e mental</li>
+            <li>Aprovação em exames físicos e psicológicos</li>
+            <li>Conclusão do curso de formação policial</li>
+        </ul>
+    </section>
+    <section id="treinamento">
+        <h2>Treinamento Policial</h2>
+        <p>O treinamento policial é rigoroso e abrange diversas áreas, incluindo técnicas de combate, leis, ética, primeiros socorros e resolução de conflitos.</p>
+    </section>
+    <section id="carreira">
+        <h2>Carreira Policial</h2>
+        <p>Na carreira policial, os profissionais podem progredir em suas funções, tornando-se detetives, inspetores, ou até mesmo alcançando cargos de liderança dentro do departamento.</p>
+    </section>
+    <footer>
+        <p>&copy; 2023 Profissão Policial. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
